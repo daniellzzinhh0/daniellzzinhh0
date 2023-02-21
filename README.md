@@ -6,5 +6,5 @@ Olá, Eu sou o Daniel conhecido como daniellzzinhh0 🖐
 
 🖥 Tecnologia do meu dia a dia
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Tecnologia](https://github-readme-stats.vercel.app/api/top-langs/?username=daniellzzinhh0&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
