@@ -4,3 +4,5 @@ Olá, Eu sou o Daniel conhecido como daniellzzinhh0 🖐
 
 ![daniellzzinhh0](https://github-readme-stats.vercel.app/api?username=daniellzzinhh0&show_icons=true&theme=highcontrast)
 
+🖥 Tecnologia do meu dia a dia
+
