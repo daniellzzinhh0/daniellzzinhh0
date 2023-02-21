@@ -4,3 +4,5 @@ Olá, Eu sou o Daniel conhecido como daniellzzinhh0 🖐
 🖥  Blog - Indisponivel no Momento
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/7v9wHwTYeJ)
 
+[![GiiHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/daniellzzinhh0)
+
